@@ -13,3 +13,5 @@ for released version:
 5) (Optional) to run program at startup:   
 6) run nano ~/.config/lxsession/LXDE-pi/autostart
 7) @/path/Mazkeka.sh (Replace path with the path to Mazkeka.sh)
+
+8) For OLED screen support, please enable I2C on raspbian
