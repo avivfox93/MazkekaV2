@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/api-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/auto-value-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/error_prone_annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/firebase-admin-6.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/gax-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/gax-grpc-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/gax-httpjson-0.40.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-api-client-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-api-client-gson-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-api-services-storage-v1-rev114-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-auth-library-credentials-0.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-auth-library-oauth2-http-0.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-cloud-core-1.27.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-cloud-core-grpc-1.27.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-cloud-core-http-1.27.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-cloud-firestore-0.45.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-cloud-storage-1.27.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-http-client-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-http-client-appengine-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-http-client-gson-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-http-client-jackson-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-http-client-jackson2-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/google-oauth-client-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/grpc-auth-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/grpc-context-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/grpc-core-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/grpc-netty-shaded-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/grpc-protobuf-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/grpc-protobuf-lite-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/grpc-stub-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/joda-time-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/netty-buffer-4.1.22.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/netty-codec-4.1.22.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/netty-codec-http-4.1.22.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/netty-common-4.1.22.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/netty-handler-4.1.22.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/netty-resolver-4.1.22.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/netty-transport-4.1.22.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/opencensus-api-0.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/opencensus-contrib-grpc-metrics-0.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/opencensus-contrib-http-util-0.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/protobuf-java-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/protobuf-java-util-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/proto-google-cloud-firestore-v1beta1-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/proto-google-common-protos-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/proto-google-iam-v1-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/threetenbp-1.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-core-sources.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-device.jar" sourcepath="D:/RPi Mazkeka/pi4j-master/pi4j-device"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-device-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-device-sources.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-example-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-example-sources.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/RPi Mazkeka/pi4j-1.2-SNAPSHOT/lib/pi4j-gpio-extension-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aviv/eclipse-workspace/firebase/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
